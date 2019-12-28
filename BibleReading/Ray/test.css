@@ -1,9 +1,11 @@
+
 body {
   padding-left: 11em;
+  padding-bottom: 31em;
   font-family: Georgia, "Times New Roman",
         Times, serif;
   color: purple;
-  background-color: #d8da3d }
+  <!background-color: #d8da3d >}
 ul.navbar {
   list-style-type: none;
   padding: 0;
@@ -30,3 +32,4 @@ address {
   margin-top: 1em;
   padding-top: 1em;
   border-top: thin dotted }
+

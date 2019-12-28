@@ -1,16 +1,16 @@
-#MyBlog{
-    position: fixed;  /*©T©w¦bºô­¶¤W¤£ÀH¨÷¶b²¾°Ê¡A­Y­nÀH¨÷¶b²¾°Ê¥Îabsolute*/
-    top: 25%;  /*³]¸m««ª½¦ì¸m*/
-    left: 1px;  /*³]¸m¤ô¥­¦ì¸m¡A¨Ì©Ò©ñªº¤º®e¦h¹è»İ­n¦Û¦æ¤â°Ê½Õ¾ã*/
-    background: #ffffff;  /*­I´ºÃC¦â*/
+  #MyBlog{
+    position: fixed;  /*å›ºå®šåœ¨ç¶²é ä¸Šä¸éš¨å·è»¸ç§»å‹•ï¼Œè‹¥è¦éš¨å·è»¸ç§»å‹•ç”¨absolute*/
+    top: 57%;  /*è¨­ç½®å‚ç›´ä½ç½®*/
+    left: 1px;  /*è¨­ç½®æ°´å¹³ä½ç½®ï¼Œä¾æ‰€æ”¾çš„å…§å®¹å¤šå¯¡éœ€è¦è‡ªè¡Œæ‰‹å‹•èª¿æ•´*/
+    background: #ffffff;  /*èƒŒæ™¯é¡è‰²*/
     padding: 10px 20px;
-    border-radius: 10px;  /*¶ê¨¤*/
+    border-radius: 10px;  /*åœ“è§’*/
     -moz-border-radius: 0px;
     -webkit-border-radius: 0px;
 }
-#MyBlog:hover{  /*·í·Æ¹«²¾¦Ü¦¹°Ï¶ô®É¡A¦ùÁY°Ï¶ô*/
+#MyBlog:hover{  /*ç•¶æ»‘é¼ ç§»è‡³æ­¤å€å¡Šæ™‚ï¼Œä¼¸ç¸®å€å¡Š*/
     right: 0px;
 }
 #MyBlog #title{
-    padding-right: 5px;  /*Åı¼ĞÃD»P³sµ²¤¤¶¡¦³ªÅ»Ø*/
+    padding-right: 5px;  /*è®“æ¨™é¡Œèˆ‡é€£çµä¸­é–“æœ‰ç©ºéš™*/
 }
